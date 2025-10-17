@@ -44,7 +44,7 @@
 
 ###
 - 🌱 I’m currently learning Data Engineering & Ai Development [Topics](https://github.com/IlD4Na/Adrian_Ginghina_info/blob/main/AI%20DEVELOPMEN%20Topics.pdf) (EQF6 Masters by ProfessionAI)
-- ⚡ Some of my projects [Pipeline ETL](https://github.com/IlD4Na/ETL-university-rankings) - [AWS practice with boto3](https://github.com/IlD4Na/Amazon_AWS_practice) - [Valutazione Indici Sp500 e EURO50](https://github.com/IlD4Na/Progetto-su-valutazione-indici-EURO50-e-SP500/blob/main/Progetto_2_(Pandas%2C_Numpy%2C_Matplotlib_pyplot).ipynb)
+- ⚡ Some of my projects [Pipeline ETL](https://github.com/IlD4Na/ETL-university-rankings) - [AWS practice with boto3](https://github.com/IlD4Na/Amazon_AWS_practice) - [Valutazione Indici Sp500 e EURO50](https://github.com/IlD4Na/Progetto-su-valutazione-indici-EURO50-e-SP500/blob/main/Progetto_2_(Pandas%2C_Numpy%2C_Matplotlib_pyplot).ipynb) - [SnowFlake mini-progetto end to end di un Data Mart Ospedaliero](https://github.com/IlD4Na/snowflake_project)
 - 📄 [English CV 01/09/2025](https://github.com/IlD4Na/CV_resume_1_August_2025/blob/main/Adrian_MariusGinghina_Curriculum_2025_Data_engineer_English%20Version.pdf)
 - 👨‍💻 [Data Analyst Diploma 100H Level EQF 3](https://github.com/IlD4Na/Adrian_Ginghina_info/blob/main/Adrian_Data_Analyst_AI_EQF3_100H.pdf) e [Topics](https://github.com/IlD4Na/Adrian_Ginghina_info/blob/main/Data_Analyst%20arguments.pdf)
 
