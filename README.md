@@ -1,4 +1,4 @@
-<h4 align="left">Hi! ✋<br>My name is Adrian Marius Ginghina, a freshly-minted graduate (February 2024) from a STEM program 🧬 in Molecular, Genomic and Industrial Biotechnology. <br>___________________________________________________________________________________________<br><br>👨‍🔬My mission is simple: add a strong dose of technology to my life-science background and grow into a Data Engineer who can bridge biology and big-data.</h4>
+<h4 align="left">Hi! ✋<br>My name is Adrian Marius Ginghina, a freshly-minted graduate (February 2024) from a STEM program 🧬 in Molecular, Genomic and Industrial Biotechnology. <br>___________________________________________________________________________________________<br><br>👨‍🔬My mission is simple: add a strong dose of technology to my life-science background and grow into a more Data-driven figure who can bridge biology and big-data.</h4>
 
 ###
 
