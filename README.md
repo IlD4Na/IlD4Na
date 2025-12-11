@@ -47,6 +47,8 @@
 - 🌱 I’m currently learning Ai Development [Topics](https://github.com/IlD4Na/Adrian_Ginghina_info/blob/main/AI%20DEVELOPMEN%20Topics.pdf) (EQF6 Masters by ProfessionAI)
 - 📄 [English CV 01/09/2025](https://github.com/IlD4Na/CV_resume_1_August_2025/blob/main/Adrian_MariusGinghina_Curriculum_2025_Data_engineer_English%20Version.pdf)
 - 👨‍💻 [Data Analyst Diploma 100H Level EQF 3](https://github.com/IlD4Na/Adrian_Ginghina_info/blob/main/Adrian_Data_Analyst_AI_EQF3_100H.pdf) e [Topics](https://github.com/IlD4Na/Adrian_Ginghina_info/blob/main/Data_Analyst%20arguments.pdf)
+- 📊 [PowerBI Dashboard Project](https://github.com/IlD4Na/Data_Jobs_PowerBI_Project)
+- 🇷 [Practice with R](https://github.com/IlD4Na/GenomicRanges_IRanges_R_Practice)
 
 
 
