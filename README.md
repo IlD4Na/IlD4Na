@@ -49,6 +49,7 @@
 - 👨‍💻 [Data Analyst Diploma 100H Level EQF 3](https://github.com/IlD4Na/Adrian_Ginghina_info/blob/main/Adrian_Data_Analyst_AI_EQF3_100H.pdf) e [Topics](https://github.com/IlD4Na/Adrian_Ginghina_info/blob/main/Data_Analyst%20arguments.pdf)
 - 📊 [PowerBI Dashboard Project](https://github.com/IlD4Na/Data_Jobs_PowerBI_Project)
 - 🇷 [Practice with R](https://github.com/IlD4Na/GenomicRanges_IRanges_R_Practice)
+- 📊 [Progetto di analisi di Open Data della regione Lombardia sui rapporti di lavoto 2001-2023 Python](https://github.com/IlD4Na/Progetto_Open_Data_Analisi-_dati/tree/main)
 
 
 
